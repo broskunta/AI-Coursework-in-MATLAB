@@ -1,2 +1,2 @@
 # AI Coursework in MATLAB
- My aritificial intelligence coursework done in MATLAB
+ My artificial intelligence coursework done in MATLAB
